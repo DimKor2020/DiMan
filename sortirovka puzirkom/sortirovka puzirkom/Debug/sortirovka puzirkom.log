@@ -1,0 +1,3 @@
+﻿  sortirovka puzirkom.cpp
+C:\Users\Acer\source\repos\sortirovka puzirkom\sortirovka puzirkom\sortirovka puzirkom.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  sortirovka puzirkom.vcxproj -> C:\Users\Acer\source\repos\sortirovka puzirkom\Debug\sortirovka puzirkom.exe
